@@ -166,15 +166,7 @@ Models were evaluated using:
 
 ---
 
-## Results
 
-| Model               | Precision | Recall | F1 Score | ROC-AUC |
-| ------------------- | --------- | ------ | -------- | ------- |
-| Logistic Regression | -         | -      | -        | -       |
-| Random Forest       | -         | -      | -        | -       |
-| XGBoost             | -         | -      | -        | -       |
-
-> Replace the values above with your final results.
 
 ### Best Performing Model
 
@@ -253,8 +245,8 @@ jupyter notebook
 
 ## Author
 
-**Your Name**
+**Areesh Arafat**
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/your-profile](https://www.linkedin.com/in/areesh-arafat/
 
-GitHub: https://github.com/your-username
+X: https://github.com/your-username](https://x.com/areesharafat
