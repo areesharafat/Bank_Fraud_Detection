@@ -247,6 +247,6 @@ jupyter notebook
 
 **Areesh Arafat**
 
-LinkedIn: https://linkedin.com/in/your-profile](https://www.linkedin.com/in/areesh-arafat/
+LinkedIn: https://www.linkedin.com/in/areesh-arafat/
 
-X: https://github.com/your-username](https://x.com/areesharafat
+X: https://x.com/areesharafat
